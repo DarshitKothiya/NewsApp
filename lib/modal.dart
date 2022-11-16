@@ -29,3 +29,8 @@ class NewsData {
     );
   }
 }
+
+
+class Modal{
+  static List bookmarkNews = [];
+}
